@@ -1,0 +1,344 @@
+TY  - JOUR
+ID  - 27485763
+AN  - 27485763
+DB  - Pubmed
+LB  - 
+AU  - Du, H
+AU  - Wang, L
+TI  - A Bayesian Power Analysis Procedure Considering Uncertainty in Effect Size Estimates from a Meta-analysis.
+AB  - In conventional frequentist power analysis, one often uses an effect size estimate, treats it as if it were the true value, and ignores uncertainty in the effect size estimate for the analysis. The resulting sample sizes can vary dramatically depending on the chosen effect size value. To resolve the problem, we propose a hybrid Bayesian power analysis procedure that models uncertainty in the effect size estimates from a meta-analysis. We use observed effect sizes and prior distributions to obtain the posterior distribution of the effect size and model parameters. Then, we simulate effect sizes from the obtained posterior distribution. For each simulated effect size, we obtain a power value. With an estimated power distribution for a given sample size, we can estimate the probability of reaching a power level or higher and the expected power. With a range of planned sample sizes, we can generate a power assurance curve. Both the conventional frequentist and our Bayesian procedures were applied to conduct prospective power analyses for two meta-analysis examples (testing standardized mean differences in example 1 and Pearson's correlations in example 2). The advantages of our proposed procedure are demonstrated and discussed.
+T2  - Multivariate behavioral research
+VL  - 51
+SP  - 589
+EP  - 605
+PY  - 2016
+C1  - 1
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/27485763
+UR  - 
+KW  - Algorithms
+KW  - Bayes Theorem
+KW  - Computer Simulation
+KW  - Data Interpretation, Statistical
+KW  - Female
+KW  - Humans
+KW  - Male
+KW  - Meta-Analysis as Topic
+KW  - Monoamine Oxidase:metabolism
+KW  - Personality:physiology
+KW  - Rotation
+KW  - Sex Characteristics
+KW  - Software
+KW  - Space Perception:physiology
+KW  - Uncertainty
+KW  - Monoamine Oxidase
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 11972663
+AN  - 11972663
+DB  - Pubmed
+LB  - 
+AU  - Muncer, S
+AU  - Taylor, S
+AU  - Craigie, M
+TI  - Power dressing and meta-analysis: incorporating power analysis into meta-analysis.
+AB  - This paper highlights the lack of consideration that is given to power in the health and social sciences, which is a continuing problem with both single study research and more importantly for meta-analysis.The power of a study is the probability that it will lead to a statistically significant result. By ignoring power the single study researcher makes it difficult to get negative results published and therefore affects meta-analysis through publication bias. Researchers using meta-analysis, who also ignore power, then compound the problem by including studies with low power that are more likely to show significant effects.A simple means of calculating an easily understood measure of effect size from a contingency table is demonstrated in this paper. A computer programme for determining the power of a study is recommended and a method of reflecting the adequacy of the power of the studies in a meta-analysis is suggested. An example of this calculation from a meta-analytic study on intravenous magnesium, which produced inaccurate results, is provided.It is demonstrated that incorporating power analysis into this meta-analysis would have prevented misleading conclusions being reached. Some suggestions are made for changes in the protocol of meta-analytic studies, which highlight the importance of power analysis.
+T2  - Journal of advanced nursing
+VL  - 38
+SP  - 274
+EP  - 80
+PY  - 2002
+C1  - 2
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/11972663
+UR  - 
+KW  - Bias
+KW  - Data Interpretation, Statistical
+KW  - Effect Modifier, Epidemiologic
+KW  - Evidence-Based Medicine
+KW  - Humans
+KW  - Infusions, Intravenous
+KW  - Magnesium:therapeutic use
+KW  - Meta-Analysis as Topic
+KW  - Myocardial Infarction:drug therapy
+KW  - Myocardial Infarction:mortality
+KW  - Reproducibility of Results
+KW  - Research Design:standards
+KW  - Sample Size
+KW  - Treatment Outcome
+KW  - Magnesium
+KW  - journal article
+KW  - review
+ER  - 
+
+TY  - JOUR
+ID  - 11570228
+AN  - 11570228
+DB  - Pubmed
+LB  - 
+AU  - Hedges, LV
+AU  - Pigott, TD
+TI  - The power of statistical tests in meta-analysis.
+AB  - Calculations of the power of statistical tests are important in planning research studies (including meta-analyses) and in interpreting situations in which a result has not proven to be statistically significant. The authors describe procedures to compute statistical power of fixed- and random-effects tests of the mean effect size, tests for heterogeneity (or variation) of effect size parameters across studies, and tests for contrasts among effect sizes of different studies. Examples are given using 2 published meta-analyses. The examples illustrate that statistical power is not always high in meta-analysis.
+T2  - Psychological methods
+VL  - 6
+SP  - 203
+EP  - 17
+PY  - 2001
+C1  - 3
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/11570228
+UR  - 
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Models, Psychological
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 21237103
+AN  - 21237103
+DB  - Pubmed
+LB  - 
+AU  - Peterman, RM
+TI  - Statistical power of methods of meta-analysis.
+AB  - 
+T2  - Trends in ecology & evolution
+VL  - 10
+SP  - 460
+PY  - 1995
+C1  - 4
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/21237103
+UR  - 
+KW  - letter
+ER  - 
+
+TY  - JOUR
+ID  - 22992327
+AN  - 22992327
+DB  - Pubmed
+LB  - 
+AU  - Thorlund, K
+AU  - Mills, EJ
+TI  - Sample size and power considerations in network meta-analysis.
+AB  - Network meta-analysis is becoming increasingly popular for establishing comparative effectiveness among multiple interventions for the same disease. Network meta-analysis inherits all methodological challenges of standard pairwise meta-analysis, but with increased complexity due to the multitude of intervention comparisons. One issue that is now widely recognized in pairwise meta-analysis is the issue of sample size and statistical power. This issue, however, has so far only received little attention in network meta-analysis. To date, no approaches have been proposed for evaluating the adequacy of the sample size, and thus power, in a treatment network.In this article, we develop easy-to-use flexible methods for estimating the 'effective sample size' in indirect comparison meta-analysis and network meta-analysis. The effective sample size for a particular treatment comparison can be interpreted as the number of patients in a pairwise meta-analysis that would provide the same degree and strength of evidence as that which is provided in the indirect comparison or network meta-analysis. We further develop methods for retrospectively estimating the statistical power for each comparison in a network meta-analysis. We illustrate the performance of the proposed methods for estimating effective sample size and statistical power using data from a network meta-analysis on interventions for smoking cessation including over 100 trials.The proposed methods are easy to use and will be of high value to regulatory agencies and decision makers who must assess the strength of the evidence supporting comparative effectiveness estimates.
+T2  - Systematic reviews
+VL  - 1
+SP  - 41
+PY  - 2012
+C1  - 5
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/22992327
+UR  - 
+KW  - Clinical Trials as Topic
+KW  - Comparative Effectiveness Research
+KW  - Evidence-Based Medicine
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Models, Statistical
+KW  - Research Design
+KW  - Sample Size
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 19182122
+AN  - 19182122
+DB  - Pubmed
+LB  - 
+AU  - Cafri, G
+AU  - Kromrey, JD
+AU  - Brannick, MT
+TI  - A SAS macro for statistical power calculations in meta-analysis.
+AB  - Although statistical power is often considered in the design of primary research studies, it is rarely considered in meta-analysis. Background and guidelines are provided for conducting power analysis in meta-analysis, followed by the presentation of a SAS macro that calculates power using the methods described by Hedges and Pigott (2001, 2004). Several detailed examples are given, including input statements and output. Practical issues in the application of power analysis to meta-analysis are discussed. The macro and examples may be downloaded as supplemental materials for this article from brm.psychonomic-journals.org/content/supplemental.
+T2  - Behavior research methods
+VL  - 41
+SP  - 35
+EP  - 46
+PY  - 2009
+C1  - 6
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/19182122
+UR  - 
+KW  - Data Interpretation, Statistical
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Models, Psychological
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 9032705
+AN  - 9032705
+DB  - Pubmed
+LB  - 
+AU  - Meyer, TJ
+AU  - Mark, MM
+TI  - Statistical power and implications of meta-analysis for clinical research in psychosocial oncology.
+AB  - 
+T2  - Journal of psychosomatic research
+VL  - 41
+SP  - 409
+EP  - 13
+PY  - 1996
+C1  - 7
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/9032705
+UR  - 
+KW  - Analysis of Variance
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Neoplasms:psychology
+KW  - Neoplasms:therapy
+KW  - Psychophysiologic Disorders:psychology
+KW  - Psychophysiologic Disorders:therapy
+KW  - Psychotherapy:methods
+KW  - Research Design
+KW  - Sample Size
+KW  - editorial
+ER  - 
+
+TY  - JOUR
+ID  - 15598097
+AN  - 15598097
+DB  - Pubmed
+LB  - 
+AU  - Hedges, LV
+AU  - Pigott, TD
+TI  - The power of statistical tests for moderators in meta-analysis.
+AB  - Calculation of the statistical power of statistical tests is important in planning and interpreting the results of research studies, including meta-analyses. It is particularly important in moderator analyses in meta-analysis, which are often used as sensitivity analyses to rule out moderator effects but also may have low statistical power. This article describes how to compute statistical power of both fixed- and mixed-effects moderator tests in meta-analysis that are analogous to the analysis of variance and multiple regression analysis for effect sizes. It also shows how to compute power of tests for goodness of fit associated with these models. Examples from a published meta-analysis demonstrate that power of moderator tests and goodness-of-fit tests is not always high.
+T2  - Psychological methods
+VL  - 9
+SP  - 426
+EP  - 45
+PY  - 2004
+C1  - 8
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/15598097
+UR  - 
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Models, Psychological
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 14596489
+AN  - 14596489
+DB  - Pubmed
+LB  - 
+AU  - Cohn, LD
+AU  - Becker, BJ
+TI  - How meta-analysis increases statistical power.
+AB  - One of the most frequently cited reasons for conducting a meta-analysis is the increase in statistical power that it affords a reviewer. This article demonstrates that fixed-effects meta-analysis increases statistical power by reducing the standard error of the weighted average effect size (T.) and, in so doing, shrinks the confidence interval around T.. Small confidence intervals make it more likely for reviewers to detect nonzero population effects, thereby increasing statistical power. Smaller confidence intervals also represent increased precision of the estimated population effect size. Computational examples are provided for 3 effect-size indices: d (standardized mean difference), Pearson's r, and odds ratios. Random-effects meta-analyses also may show increased statistical power and a smaller standard error of the weighted average effect size. However, the authors demonstrate that increasing the number of studies in a random-effects meta-analysis does not always increase statistical power.
+T2  - Psychological methods
+VL  - 8
+SP  - 243
+EP  - 53
+PY  - 2003
+C1  - 9
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/14596489
+UR  - 
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Models, Statistical
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 28378395
+AN  - 28378395
+DB  - Pubmed
+LB  - 
+AU  - Jackson, D
+AU  - Turner, R
+TI  - Power analysis for random-effects meta-analysis.
+AB  - One of the reasons for the popularity of meta-analysis is the notion that these analyses will possess more power to detect effects than individual studies. This is inevitably the case under a fixed-effect model. However, the inclusion of the between-study variance in the random-effects model, and the need to estimate this parameter, can have unfortunate implications for this power. We develop methods for assessing the power of random-effects meta-analyses, and the average power of the individual studies that contribute to meta-analyses, so that these powers can be compared. In addition to deriving new analytical results and methods, we apply our methods to 1991 meta-analyses taken from the Cochrane Database of Systematic Reviews to retrospectively calculate their powers. We find that, in practice, 5 or more studies are needed to reasonably consistently achieve powers from random-effects meta-analyses that are greater than the studies that contribute to them. Not only is statistical inference under the random-effects model challenging when there are very few studies but also less worthwhile in such cases. The assumption that meta-analysis will result in an increase in power is challenged by our findings.
+T2  - Research synthesis methods
+VL  - 8
+SP  - 290
+EP  - 302
+PY  - 2017
+C1  - 10
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/28378395
+UR  - 
+KW  - Bias
+KW  - Databases, Factual
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Models, Statistical
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 26760285
+AN  - 26760285
+DB  - Pubmed
+LB  - 
+AU  - Cafri, G
+AU  - Kromrey, JD
+AU  - Brannick, MT
+TI  - A Meta-Meta-Analysis: Empirical Review of Statistical Power, Type I Error Rates, Effect Sizes, and Model Selection of Meta-Analyses Published in Psychology.
+AB  - This article uses meta-analyses published in Psychological Bulletin from 1995 to 2005 to describe meta-analyses in psychology, including examination of statistical power, Type I errors resulting from multiple comparisons, and model choice. Retrospective power estimates indicated that univariate categorical and continuous moderators, individual moderators in multivariate analyses, and tests of residual variability within individual levels of categorical moderators had the lowest and most concerning levels of power. Using methods of calculating power prospectively for significance tests in meta-analysis, we illustrate how power varies as a function of the number of effect sizes, the average sample size per effect size, effect size magnitude, and level of heterogeneity of effect sizes. In most meta-analyses many significance tests were conducted, resulting in a sizable estimated probability of a Type I error, particularly for tests of means within levels of a moderator, univariate categorical moderators, and residual variability within individual levels of a moderator. Across all surveyed studies, the median effect size and the median difference between two levels of study level moderators were smaller than Cohen's (1988) conventions for a medium effect size for a correlation or difference between two correlations. The median Birge's (1932) ratio was larger than the convention of medium heterogeneity proposed by Hedges and Pigott (2001) and indicates that the typical meta-analysis shows variability in underlying effects well beyond that expected by sampling error alone. Fixed-effects models were used with greater frequency than random-effects models; however, random-effects models were used with increased frequency over time. Results related to model selection of this study are carefully compared with those from Schmidt, Oh, and Hayes (2009), who independently designed and produced a study similar to the one reported here. Recommendations for conducting future meta-analyses in light of the findings are provided. 
+T2  - Multivariate behavioral research
+VL  - 45
+SP  - 239
+EP  - 70
+PY  - 2010
+C1  - 11
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26760285
+UR  - 
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 28264661
+AN  - 28264661
+DB  - Pubmed
+LB  - 
+AU  - Wetterslev, J
+AU  - Jakobsen, JC
+AU  - Gluud, C
+TI  - Trial Sequential Analysis in systematic reviews with meta-analysis.
+AB  - Most meta-analyses in systematic reviews, including Cochrane ones, do not have sufficient statistical power to detect or refute even large intervention effects. This is why a meta-analysis ought to be regarded as an interim analysis on its way towards a required information size. The results of the meta-analyses should relate the total number of randomised participants to the estimated required meta-analytic information size accounting for statistical diversity. When the number of participants and the corresponding number of trials in a meta-analysis are insufficient, the use of the traditional 95% confidence interval or the 5% statistical significance threshold will lead to too many false positive conclusions (type I errors) and too many false negative conclusions (type II errors).We developed a methodology for interpreting meta-analysis results, using generally accepted, valid evidence on how to adjust thresholds for significance in randomised clinical trials when the required sample size has not been reached.The Lan-DeMets trial sequential monitoring boundaries in Trial Sequential Analysis offer adjusted confidence intervals and restricted thresholds for statistical significance when the diversity-adjusted required information size and the corresponding number of required trials for the meta-analysis have not been reached. Trial Sequential Analysis provides a frequentistic approach to control both type I and type II errors. We define the required information size and the corresponding number of required trials in a meta-analysis and the diversity (D2) measure of heterogeneity. We explain the reasons for using Trial Sequential Analysis of meta-analysis when the actual information size fails to reach the required information size. We present examples drawn from traditional meta-analyses using unadjusted naïve 95% confidence intervals and 5% thresholds for statistical significance. Spurious conclusions in systematic reviews with traditional meta-analyses can be reduced using Trial Sequential Analysis. Several empirical studies have demonstrated that the Trial Sequential Analysis provides better control of type I errors and of type II errors than the traditional naïve meta-analysis.Trial Sequential Analysis represents analysis of meta-analytic data, with transparent assumptions, and better control of type I and type II errors than the traditional meta-analysis using naïve unadjusted confidence intervals.
+T2  - BMC medical research methodology
+VL  - 17
+SP  - 39
+PY  - 2017
+C1  - 12
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/28264661
+UR  - 
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Randomized Controlled Trials as Topic
+KW  - Research Design
+KW  - Sample Size
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 26286683
+AN  - 26286683
+DB  - Pubmed
+LB  - 
+AU  - Giraudeau, B
+AU  - Higgins, JP
+AU  - Tavernier, E
+AU  - Trinquart, L
+TI  - Sample size calculation for meta-epidemiological studies.
+AB  - Meta-epidemiological studies are used to compare treatment effect estimates between randomized clinical trials with and without a characteristic of interest. To our knowledge, there is presently nothing to help researchers to a priori specify the required number of meta-analyses to be included in a meta-epidemiological study. We derived a theoretical power function and sample size formula in the framework of a hierarchical model that allows for variation in the impact of the characteristic between trials within a meta-analysis and between meta-analyses. A simulation study revealed that the theoretical function overestimated power (because of the assumption of equal weights for each trial within and between meta-analyses). We also propose a simulation approach that allows for relaxing the constraints used in the theoretical approach and is more accurate. We illustrate that the two variables that mostly influence power are the number of trials per meta-analysis and the proportion of trials with the characteristic of interest. We derived a closed-form power function and sample size formula for estimating the impact of trial characteristics in meta-epidemiological studies. Our analytical results can be used as a 'rule of thumb' for sample size calculation for a meta-epidemiologic study. A more accurate sample size can be derived with a simulation study.
+T2  - Statistics in medicine
+VL  - 35
+SP  - 239
+EP  - 50
+PY  - 2016
+C1  - 13
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26286683
+UR  - 
+KW  - Biostatistics:methods
+KW  - Computer Simulation
+KW  - Epidemiologic Studies
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Models, Statistical
+KW  - Sample Size
+KW  - journal article
+ER  - 
+

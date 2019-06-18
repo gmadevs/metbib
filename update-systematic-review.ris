@@ -1,0 +1,1284 @@
+TY  - JOUR
+ID  - 30849512
+AN  - 30849512
+DB  - Pubmed
+LB  - 
+AU  - Bashir, R
+AU  - Surian, D
+AU  - Dunn, AG
+TI  - The risk of conclusion change in systematic review updates can be estimated by learning from a database of published examples.
+AB  - To determine which systematic review characteristics are needed to estimate the risk of conclusion change in systematic review updates.We applied classification trees (a machine learning method) to model the risk of conclusion change in systematic review updates, using pairs of systematic reviews and their updates as samples. The classifiers were constructed using a set of features extracted from systematic reviews and the relevant trials added in published updates. Model performance was measured by recall, precision, and area under the receiver operating characteristic curve (AUC).We identified 63 pairs of systematic reviews and updates, of which 20 (32%) exhibited a change in conclusion in their updates. A classifier using information about new trials exhibited the highest performance (AUC: 0.71; recall: 0.75; precision: 0.43) compared to a classifier that used fewer features (AUC: 0.65; recall: 0.75; precision: 0.39).When estimating the risk of conclusion change in systematic review updates, information about the sizes of trials that will be added in an update are most useful. Future tools aimed at signaling conclusion change risks would benefit from complementary tools that automate screening of relevant trials.
+T2  - Journal of clinical epidemiology
+VL  - 110
+SP  - 42
+EP  - 49
+PY  - 2019
+C1  - 1
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/30849512
+UR  - 
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 30552957
+AN  - 30552957
+DB  - Pubmed
+LB  - 
+AU  - Créquit, P
+AU  - Martin-Montoya, T
+AU  - Attiche, N
+AU  - Trinquart, L
+AU  - Vivot, A
+AU  - Ravaud, P
+TI  - Living network meta-analysis was feasible when considering the pace of evidence generation.
+AB  - The aim of the study was to assess the feasibility of living network meta-analysis (NMA) taking into account the pace of evidence generation across different medical areas.We performed a systematic review to identify published NMAs. For each NMA, we calculated the cumulative number of new trials. To assess the feasibility of living NMA, we considered different update frequencies (4, 6, and 12 months), then evaluated the number of new trials to be included at each update in the NMA and the workload percentage for an update relative to the initial NMA.We identified 77 NMAs covering 17 different medical areas; 60 (78%) had fewer than four new trials included per year, on average, and 5 (7%) had more than seven trials. With an update frequency of 4, 6, and 12 months, the median number of new trials to be included in the NMA was 0 (interquartile range, 0-1), 1 (0-2), and 2 (1-4), respectively, with mean of 4%, 5%, and 11% workload per update, respectively.The workload associated with updating a living NMA represents about one-tenth of the initial workload; therefore, living NMA is manageable.
+T2  - Journal of clinical epidemiology
+VL  - 108
+SP  - 10
+EP  - 16
+PY  - 2019
+C1  - 2
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/30552957
+UR  - 
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 30447694
+AN  - 30447694
+DB  - Pubmed
+LB  - 
+AU  - Bashir, R
+AU  - Surian, D
+AU  - Dunn, AG
+TI  - Time-to-update of systematic reviews relative to the availability of new evidence.
+AB  - A number of methods for deciding when a systematic review should be updated have been proposed, yet little is known about whether systematic reviews are updated more quickly when new evidence becomes available. Our aim was to examine the timing of systematic review updates relative to the availability of new evidence.We performed a retrospective analysis of the update timing of systematic reviews published in the Cochrane Database of Systematic Reviews in 2010 relative to the availability of new trial evidence. We compared the update timing of systematic reviews with and without signals defined by the completion or publication of studies that were included in the updates.We found 43% (293/682) systematic reviews were updated before June 2017, of which 204 included an updated primary outcome meta-analysis (median update time 35.4 months; IQR 25.5-54.0), 38% (77/204) added new trials, and 4% (8/204) reported a change in conclusion. In the 171 systematic reviews with reconcilable trial reporting information, we did not find a clear difference in update timing (p = 0.05) between the 15 systematic reviews with a publication signal (median 25.3 months; IQR 15.3-43.5) and the 156 systematic reviews without a publication signal (median 34.4 months; IQR 25.1-52.2). In the 145 systematic reviews with reconcilable trial completion information, we did not find a difference in update timing (p = 0.33) between the 15 systematic reviews with a trial completion signal (median 26.0 months; IQR 19.3-49.5) and the 130 systematic reviews without a trial completion signal (median 32.4 months; IQR 24.1 to 46.0).A minority of 2010 Cochrane reviews were updated before June 2017 to incorporate evidence from new primary studies, and very few updates led to a change in conclusion. We did not find clear evidence that updates were undertaken faster when new evidence was made available. New approaches for finding early signals that a systematic review conclusion is at risk of change may be useful in allocated resources to the updating of systematic reviews.
+T2  - Systematic reviews
+VL  - 7
+SP  - 195
+PY  - 2018
+C1  - 3
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/30447694
+UR  - 
+KW  - Biomedical Research
+KW  - Clinical Trials as Topic
+KW  - Evidence-Based Medicine
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Publishing
+KW  - Retrospective Studies
+KW  - Systematic Reviews as Topic
+KW  - Time Factors
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 29410356
+AN  - 29410356
+DB  - Pubmed
+LB  - 
+AU  - Surian, D
+AU  - Dunn, AG
+AU  - Orenstein, L
+AU  - Bashir, R
+AU  - Coiera, E
+AU  - Bourgeois, FT
+TI  - A shared latent space matrix factorisation method for recommending new trial evidence for systematic review updates.
+AB  - Clinical trial registries can be used to monitor the production of trial evidence and signal when systematic reviews become out of date. However, this use has been limited to date due to the extensive manual review required to search for and screen relevant trial registrations. Our aim was to evaluate a new method that could partially automate the identification of trial registrations that may be relevant for systematic review updates.We identified 179 systematic reviews of drug interventions for type 2 diabetes, which included 537 clinical trials that had registrations in ClinicalTrials.gov. Text from the trial registrations were used as features directly, or transformed using Latent Dirichlet Allocation (LDA) or Principal Component Analysis (PCA). We tested a novel matrix factorisation approach that uses a shared latent space to learn how to rank relevant trial registrations for each systematic review, comparing the performance to document similarity to rank relevant trial registrations. The two approaches were tested on a holdout set of the newest trials from the set of type 2 diabetes systematic reviews and an unseen set of 141 clinical trial registrations from 17 updated systematic reviews published in the Cochrane Database of Systematic Reviews. The performance was measured by the number of relevant registrations found after examining 100 candidates (recall@100) and the median rank of relevant registrations in the ranked candidate lists.The matrix factorisation approach outperformed the document similarity approach with a median rank of 59 (of 128,392 candidate registrations in ClinicalTrials.gov) and recall@100 of 60.9% using LDA feature representation, compared to a median rank of 138 and recall@100 of 42.8% in the document similarity baseline. In the second set of systematic reviews and their updates, the highest performing approach used document similarity and gave a median rank of 67 (recall@100 of 62.9%).A shared latent space matrix factorisation method was useful for ranking trial registrations to reduce the manual workload associated with finding relevant trials for systematic review updates. The results suggest that the approach could be used as part of a semi-automated pipeline for monitoring potentially new evidence for inclusion in a review update.
+T2  - Journal of biomedical informatics
+VL  - 79
+SP  - 32
+EP  - 40
+PY  - 2018
+C1  - 4
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/29410356
+UR  - 
+KW  - Automation
+KW  - Clinical Trials as Topic
+KW  - Databases, Bibliographic
+KW  - Diabetes Mellitus, Type 2:therapy
+KW  - Humans
+KW  - Information Storage and Retrieval:methods
+KW  - Medical Informatics:methods
+KW  - Models, Statistical
+KW  - Registries
+KW  - Reproducibility of Results
+KW  - Systematic Reviews as Topic
+KW  - journal article
+KW  - research support, u.s. gov't, p.h.s.
+ER  - 
+
+TY  - JOUR
+ID  - 27587588
+AN  - 27587588
+DB  - Pubmed
+LB  - 
+AU  - Nikolakopoulou, A
+AU  - Mavridis, D
+AU  - Egger, M
+AU  - Salanti, G
+TI  - Continuously updated network meta-analysis and statistical monitoring for timely decision-making.
+AB  - Pairwise and network meta-analysis (NMA) are traditionally used retrospectively to assess existing evidence. However, the current evidence often undergoes several updates as new studies become available. In each update recommendations about the conclusiveness of the evidence and the need of future studies need to be made. In the context of prospective meta-analysis future studies are planned as part of the accumulation of the evidence. In this setting, multiple testing issues need to be taken into account when the meta-analysis results are interpreted. We extend ideas of sequential monitoring of meta-analysis to provide a methodological framework for updating NMAs. Based on the z-score for each network estimate (the ratio of effect size to its standard error) and the respective information gained after each study enters NMA we construct efficacy and futility stopping boundaries. A NMA treatment effect is considered conclusive when it crosses an appended stopping boundary. The methods are illustrated using a recently published NMA where we show that evidence about a particular comparison can become conclusive via indirect evidence even if no further trials address this comparison.
+T2  - Statistical methods in medical research
+VL  - 27
+SP  - 1312
+EP  - 1330
+PY  - 2018
+C1  - 5
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/27587588
+UR  - 
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 28912002
+AN  - 28912002
+DB  - Pubmed
+LB  - 
+AU  - Elliott, JH
+AU  - Synnot, A
+AU  - Turner, T
+AU  - Simmonds, M
+AU  - Akl, EA
+AU  - McDonald, S
+AU  - Salanti, G
+AU  - Meerpohl, J
+AU  - MacLehose, H
+AU  - Hilton, J
+AU  - Tovey, D
+AU  - Shemilt, I
+AU  - Thomas, J
+AU  - ,
+TI  - Living systematic review: 1. Introduction-the why, what, when, and how.
+AB  - Systematic reviews are difficult to keep up to date, but failure to do so leads to a decay in review currency, accuracy, and utility. We are developing a novel approach to systematic review updating termed "Living systematic review" (LSR): systematic reviews that are continually updated, incorporating relevant new evidence as it becomes available. LSRs may be particularly important in fields where research evidence is emerging rapidly, current evidence is uncertain, and new research may change policy or practice decisions. We hypothesize that a continual approach to updating will achieve greater currency and validity, and increase the benefits to end users, with feasible resource requirements over time.
+T2  - Journal of clinical epidemiology
+VL  - 91
+SP  - 23
+EP  - 30
+PY  - 2017
+C1  - 6
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/28912002
+UR  - 
+KW  - Access to Information
+KW  - Biomedical Research
+KW  - Guidelines as Topic
+KW  - Humans
+KW  - Information Dissemination
+KW  - Review Literature as Topic
+KW  - Time Factors
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 28911999
+AN  - 28911999
+DB  - Pubmed
+LB  - 
+AU  - Akl, EA
+AU  - Meerpohl, JJ
+AU  - Elliott, J
+AU  - Kahale, LA
+AU  - Schünemann, HJ
+AU  - ,
+TI  - Living systematic reviews: 4. Living guideline recommendations.
+AB  - While it is important for the evidence supporting practice guidelines to be current, that is often not the case. The advent of living systematic reviews has made the concept of "living guidelines" realistic, with the promise to provide timely, up-to-date and high-quality guidance to target users. We define living guidelines as an optimization of the guideline development process to allow updating individual recommendations as soon as new relevant evidence becomes available. A major implication of that definition is that the unit of update is the individual recommendation and not the whole guideline. We then discuss when living guidelines are appropriate, the workflows required to support them, the collaboration between living systematic reviews and living guideline teams, the thresholds for changing recommendations, and potential approaches to publication and dissemination. The success and sustainability of the concept of living guideline will depend on those of its major pillar, the living systematic review. We conclude that guideline developers should both experiment with and research the process of living guidelines.
+T2  - Journal of clinical epidemiology
+VL  - 91
+SP  - 47
+EP  - 53
+PY  - 2017
+C1  - 7
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/28911999
+UR  - 
+KW  - Decision Making
+KW  - Humans
+KW  - Practice Guidelines as Topic:standards
+KW  - Review Literature as Topic
+KW  - journal article
+KW  - review
+KW  - systematic review
+ER  - 
+
+TY  - JOUR
+ID  - 28625563
+AN  - 28625563
+DB  - Pubmed
+LB  - 
+AU  - Rice, M
+AU  - Ali, MU
+AU  - Fitzpatrick-Lewis, D
+AU  - Kenny, M
+AU  - Raina, P
+AU  - Sherifali, D
+TI  - Testing the effectiveness of simplified search strategies for updating systematic reviews.
+AB  - The objective of the study was to test the overall effectiveness of a simplified search strategy (SSS) for updating systematic reviews.We identified nine systematic reviews undertaken by our research group for which both comprehensive and SSS updates were performed. Three relevant performance measures were estimated, that is, sensitivity, precision, and number needed to read (NNR).The update reference searches for all nine included systematic reviews identified a total of 55,099 citations that were screened resulting in final inclusion of 163 randomized controlled trials. As compared with reference search, the SSS resulted in 8,239 hits and had a median sensitivity of 83.3%, while precision and NNR were 4.5 times better. During analysis, we found that the SSS performed better for clinically focused topics, with a median sensitivity of 100% and precision and NNR 6 times better than for the reference searches. For broader topics, the sensitivity of the SSS was 80% while precision and NNR were 5.4 times better compared with reference search.SSS performed well for clinically focused topics and, with a median sensitivity of 100%, could be a viable alternative to a conventional comprehensive search strategy for updating this type of systematic reviews particularly considering the budget constraints and the volume of new literature being published. For broader topics, 80% sensitivity is likely to be considered too low for a systematic review update in most cases, although it might be acceptable if updating a scoping or rapid review.
+T2  - Journal of clinical epidemiology
+VL  - 88
+SP  - 148
+EP  - 153
+PY  - 2017
+C1  - 8
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/28625563
+UR  - 
+KW  - Humans
+KW  - Information Storage and Retrieval:methods
+KW  - Review Literature as Topic
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 28137732
+AN  - 28137732
+DB  - Pubmed
+LB  - 
+AU  - Pieper, D
+AU  - Mathes, T
+TI  - Survey of instructions for authors on how to report an update of a systematic review: guidance is needed.
+AB  - Systematic reviews have become the cornerstone of evidence-based healthcare. Approximately half of the systematic reviews are out of date after 5.5 years, and keeping them up to date remains a huge challenge. Despite new guidance on when and how to update systematic reviews, there seems to be a lack of guidance on how to report updates of systematic reviews. Therefore, we decided to systematically analyse instruction for authors in biomedical journals regarding guidance on reporting updates of systematic reviews. We conducted a survey investigating 250 journals. The journal list was derived by a twofold strategy. First, we chose a list of journals that were included in a recently published survey of systematic reviews. This list was augmented by a PubMed search for published updates of systematic reviews. For each journal, we checked the instructions for authors for any content or links related to updating systematic reviews in September 2016. Out of 250 journals, we found only one with guidance clearly related to updates of systematic reviews, namely the BioMed Central journal, Systematic Reviews Nevertheless, concrete guidance on reporting is lacking as it is stated that authors are encouraged to be innovative in how to report and present systematic review updates. This makes clear that there remains a fundamental uncertainty of how authors willing to update a previously published systematic review should act as even the leading journal in evidence syntheses does not have clear guidance. Debate is necessary on how to report updates of systematic reviews.
+T2  - Evidence-based medicine
+VL  - 22
+SP  - 45
+EP  - 48
+PY  - 2017
+C1  - 9
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/28137732
+UR  - 
+KW  - Checklist
+KW  - Guidelines as Topic
+KW  - Publishing:standards
+KW  - Research Report:standards
+KW  - Review Literature as Topic
+KW  - Surveys and Questionnaires
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 27443385
+AN  - 27443385
+DB  - Pubmed
+LB  - 
+AU  - Garner, P
+AU  - Hopewell, S
+AU  - Chandler, J
+AU  - MacLehose, H
+AU  - Schünemann, HJ
+AU  - Akl, EA
+AU  - Beyene, J
+AU  - Chang, S
+AU  - Churchill, R
+AU  - Dearness, K
+AU  - Guyatt, G
+AU  - Lefebvre, C
+AU  - Liles, B
+AU  - Marshall, R
+AU  - Martínez García, L
+AU  - Mavergames, C
+AU  - Nasser, M
+AU  - Qaseem, A
+AU  - Sampson, M
+AU  - Soares-Weiser, K
+AU  - Takwoingi, Y
+AU  - Thabane, L
+AU  - Trivella, M
+AU  - Tugwell, P
+AU  - Welsh, E
+AU  - Wilson, EC
+AU  - Schünemann, HJ
+AU  - ,
+TI  - When and how to update systematic reviews: consensus and checklist.
+AB  - 
+T2  - BMJ (Clinical research ed.)
+VL  - 354
+SP  - i3507
+PY  - 2016
+C1  - 10
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/27443385
+UR  - 
+KW  - Advisory Committees
+KW  - Canada
+KW  - Checklist
+KW  - Consensus
+KW  - Guidelines as Topic
+KW  - Publishing:standards
+KW  - Review Literature as Topic
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 26979748
+AN  - 26979748
+DB  - Pubmed
+LB  - 
+AU  - France, EF
+AU  - Wells, M
+AU  - Lang, H
+AU  - Williams, B
+TI  - Why, when and how to update a meta-ethnography qualitative synthesis.
+AB  - Meta-ethnography is a unique, systematic, qualitative synthesis approach widely used to provide robust evidence on patient and clinician beliefs and experiences and understandings of complex social phenomena. It can make important theoretical and conceptual contributions to health care policy and practice.Since beliefs, experiences, health care contexts and social phenomena change over time, the continued relevance of the findings from meta-ethnographies cannot be assumed. However, there is little guidance on whether, when and how meta-ethnographies should be updated; Cochrane guidance on updating reviews of intervention effectiveness is unlikely to be fully appropriate. This is the first in-depth discussion on updating a meta-ethnography; it explores why, when and how to update a meta-ethnography. Three main methods of updating the analysis and synthesis are examined. Advantages and disadvantages of each method are outlined, relating to the context, purpose, process and output of the update and the nature of the new data available. Recommendations are made for the appropriate use of each method, and a worked example of updating a meta-ethnography is provided.This article makes a unique contribution to this evolving area of meta-ethnography methodology.
+T2  - Systematic reviews
+VL  - 5
+SP  - 44
+PY  - 2016
+C1  - 11
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26979748
+UR  - 
+KW  - Anthropology, Cultural:methods
+KW  - Humans
+KW  - Qualitative Research
+KW  - Review Literature as Topic
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 26445323
+AN  - 26445323
+DB  - Pubmed
+LB  - 
+AU  - Mayhew, AD
+AU  - Kabir, M
+AU  - Ansari, MT
+TI  - Considerations from the risk of bias perspective for updating Cochrane reviews.
+AB  - Authors of Cochrane reviews are expected to update their reviews every 2 years. The updating process helps to ensure that reviews are current and include recent evidence. However, the updating process is time-consuming for authors, particularly when Cochrane methods evolve and authors are required to revisit some of the originally included studies.The Cochrane Collaboration's 'Risk of bias' tool is a mandatory component of Cochrane reviews, providing an assessment of the potential biases of included studies. The tool has been modified most recently in 2011, and the expectation is that new versions will continue to be produced and utilised in all Cochrane reviews. In this commentary we discuss, in the context of updating scenarios that are likely to be encountered, the potential options systematic review authors may have recourse to when the Cochrane Collaboration's 'Risk of bias' tool has been modified between the original review and its update. We recommend that authors who are updating reviews should revise their original assessments of included studies using the most recent version of the risk of bias tool. Despite the increased workload, use of the most recent version of the tool facilitates consistency of methods and reporting both across and within reviews, and ensures currency to the methodological rigour.
+T2  - Systematic reviews
+VL  - 4
+SP  - 136
+PY  - 2015
+C1  - 12
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26445323
+UR  - 
+KW  - Bias
+KW  - Biomedical Research:standards
+KW  - Evidence-Based Medicine
+KW  - Humans
+KW  - Research Design:standards
+KW  - Review Literature as Topic
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 25281222
+AN  - 25281222
+DB  - Pubmed
+LB  - 
+AU  - Pieper, D
+AU  - Antoine, SL
+AU  - Neugebauer, EA
+AU  - Eikermann, M
+TI  - Up-to-dateness of reviews is often neglected in overviews: a systematic review.
+AB  - As systematic reviews may run out of date, it might be necessary to update them. Out-of-date reviews may jeopardize the comparability when used in the context of overviews (review of reviews).Seven electronic databases were searched for overviews up to November 2012. We first aimed to analyze whether the authors of overviews additionally searched for primary studies or alternatively explained why they did not. Second, we sought to analyze the actual publication lag (publication date of the overview - publication date of the review) in overviews and to develop recommendations for authors of overviews.We included 147 overviews. The mean publication lag in overviews was more than 5 years. A median of 36% of the reviews were published more than 6 years ago. Only one in four reviews considered up-to-dateness. The methods for updating reviews were heterogeneous. We found no overview that systematically investigated whether an update was necessary.The issue of up-to-dateness when conducting overviews seems to be neglected by most authors of overviews. Authors should assess the quality of evidence, based on their included reviews first.
+T2  - Journal of clinical epidemiology
+VL  - 67
+SP  - 1302
+EP  - 8
+PY  - 2014
+C1  - 13
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/25281222
+UR  - 
+KW  - Biomedical Research
+KW  - Humans
+KW  - Publishing:standards
+KW  - Review Literature as Topic
+KW  - journal article
+KW  - review
+KW  - systematic review
+ER  - 
+
+TY  - JOUR
+ID  - 24529068
+AN  - 24529068
+DB  - Pubmed
+LB  - 
+AU  - Shekelle, PG
+AU  - Motala, A
+AU  - Johnsen, B
+AU  - Newberry, SJ
+TI  - Assessment of a method to detect signals for updating systematic reviews.
+AB  - Systematic reviews are a cornerstone of evidence-based medicine but are useful only if up-to-date. Methods for detecting signals of when a systematic review needs updating have face validity, but no proposed method has had an assessment of predictive validity performed.The AHRQ Comparative Effectiveness Review program had produced 13 comparative effectiveness reviews (CERs), a subcategory of systematic reviews, by 2009, 11 of which were assessed in 2009 using a surveillance system to determine the degree to which individual conclusions were out of date and to assign a priority for updating each report. Four CERs were judged to be a high priority for updating, four CERs were judged to be medium priority for updating, and three CERs were judged to be low priority for updating. AHRQ then commissioned full update reviews for 9 of these 11 CERs. Where possible, we matched the original conclusions with their corresponding conclusions in the update reports, and compared the congruence between these pairs with our original predictions about which conclusions in each CER remained valid. We then classified the concordance of each pair as good, fair, or poor. We also made a summary determination of the priority for updating each CER based on the actual changes in conclusions in the updated report, and compared these determinations with the earlier assessments of priority.The 9 CERs included 149 individual conclusions, 84% with matches in the update reports. Across reports, 83% of matched conclusions had good concordance, and 99% had good or fair concordance. The one instance of poor concordance was partially attributable to the publication of new evidence after the surveillance signal searches had been done. Both CERs originally judged as being low priority for updating had no substantive changes to their conclusions in the actual updated report. The agreement on overall priority for updating between prediction and actual changes to conclusions was Kappa = 0.74.These results provide some support for the validity of a surveillance system for detecting signals indicating when a systematic review needs updating.
+T2  - Systematic reviews
+VL  - 3
+SP  - 13
+PY  - 2014
+C1  - 14
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/24529068
+UR  - 
+KW  - Evidence-Based Medicine:methods
+KW  - Evidence-Based Medicine:standards
+KW  - Humans
+KW  - Reproducibility of Results
+KW  - Review Literature as Topic
+KW  - Time Factors
+KW  - journal article
+KW  - research support, u.s. gov't, p.h.s.
+ER  - 
+
+TY  - JOUR
+ID  - 24696888
+AN  - 24696888
+DB  - Pubmed
+LB  - 
+AU  - Shekelle, PG
+AU  - Motala, A
+AU  - Johnsen, B
+TI  - Book: Assessment of a Method to Detect Signals for Updating Systematic Reviews
+AB  - Systematic reviews are a cornerstone of evidence-based medicine. The Agency for Healthcare Research and Quality (AHRQ) has a program to produce systematic reviews. Systematic reviews will become out of date as new evidence gets published. Determining when a systematic review has gone sufficiently out of date to warrant an update is challenging. AHRQ has a surveillance system that uses limited literature searches and expert opinion to detect signals for when a systematic review is out of date. While the surveillance system has face validity, an assessment of predictive validity has not been performedThe AHRQ Comparative Effectiveness Review (CER) program had produced 13 CERs by 2009, and 11 of these were assessed in 2009 using the surveillance system to produce determinations of the degree to which individual conclusions were out of date, along with a priority for updating each report. Four CERs were judged to be a high priority for updating, 4 CERs were judged to be medium priority for updating, and 3 CERs were judged to be low priority for updating. AHRQ then commissioned full updated reviews for 9 of these 11 CERs, including 4 high, 3 medium, and 2 low-priority reports. After all the updated reports were completed, we matched the original predictions about which conclusions in each CER were still valid, possibly out of date, probably out of date, and out of date, with the corresponding conclusions in the updated report, and then classified each pair as having good, fair or poor concordance. We also made a summary determination of the priority for updating each CER based on the actual changes in conclusions in the updated report, and compared these determinations with the earlier assessments of priority.The 9 CERs included nearly 150 individual conclusions. In 8 of the 9 reports, the great majority of assessments of individual conclusions had good concordance between the predictions and the update. Across reports, 83 percent of matched conclusions had good concordance, and 99 percent had good or fair concordance. For 16 percent of conclusions there was either no match between the original and updated report, or the concordance assessment was otherwise not applicable. There was one instance of poor concordance, and the publication of new evidence after the surveillance signal searches had been done contributed to the changed conclusion in the updated report. This occurred in a CER already judged as being a high priority for updating. For one CER originally judged as being high priority for updating, based on the actual updated results we judged it as having been a medium priority. For another CER originally judged as being medium priority for updating, based on the actual updated results we judged it as having been a high priority. The remaining 7 CERs had agreement between their assessments of priority status. Both CERs originally judged as being low priority for updating had no substantive changes to their conclusions in the actual updated report. The agreement on overall priority for updating between prediction and actual changes to conclusions was K=0.74.These results provide some support for the surveillance system's validity for detecting signals of when a systematic review is sufficiently out of date that it needs updating.
+T2  - Book: Assessment of a Method to Detect Signals for Updating Systematic Reviews
+VL  - 
+PY  - 2014
+C1  - 15
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/24696888
+UR  - 
+KW  - review
+ER  - 
+
+TY  - JOUR
+ID  - 24212996
+AN  - 24212996
+DB  - Pubmed
+LB  - 
+AU  - Mickenautsch, S
+AU  - Yengopal, V
+TI  - The modified Ottawa method to establish the update need of a systematic review: glass-ionomer versus resin sealants for caries prevention.
+AB  - To demonstrate the application of the modified Ottawa method by establishing the update need of a systematic review with focus on the caries preventive effect of GIC versus resin pit and fissure sealants; to answer the question as to whether the existing conclusions of this systematic review are still current; to establish whether a new update of this systematic review was needed.Application of the Modified Ottawa method. Application date: April/May 2012.Four signals aligned with the criteria of the modified Ottawa method were identified. The content of these signals suggest that higher precision of the current systematic review results might be achieved if an update of the current review were conducted at this point in time. However, these signals further indicate that such systematic review update, despite its higher precision, would only confirm the existing review conclusion that no statistically significant difference exists in the caries-preventive effect of GIC and resin-based fissure sealants.In conclusion, this study demonstrated the modified Ottawa method as an effective tool in establishing the update need of the systematic review. In addition, it was established that the conclusions of the systematic review in relation to the caries preventive effect of GIC versus resin based fissure sealants are still current, and that no update of this systematic review was warranted at date of application.
+T2  - Journal of applied oral science : revista FOB
+VL  - 21
+SP  - 482
+EP  - 9
+PY  - 2013
+C1  - 16
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/24212996
+UR  - 
+KW  - Clinical Trials as Topic
+KW  - Dental Caries:prevention & control
+KW  - Glass Ionomer Cements:therapeutic use
+KW  - Humans
+KW  - Pit and Fissure Sealants:therapeutic use
+KW  - Reproducibility of Results
+KW  - Resin Cements:therapeutic use
+KW  - Review Literature as Topic
+KW  - Time Factors
+KW  - Glass Ionomer Cements
+KW  - Pit and Fissure Sealants
+KW  - Resin Cements
+KW  - journal article
+KW  - meta-analysis
+KW  - review
+KW  - systematic review
+ER  - 
+
+TY  - JOUR
+ID  - 23714302
+AN  - 23714302
+DB  - Pubmed
+LB  - 
+AU  - Beller, EM
+AU  - Chen, JK
+AU  - Wang, UL
+AU  - Glasziou, PP
+TI  - Are systematic reviews up-to-date at the time of publication?
+AB  - Systematic reviews provide a synthesis of evidence for practitioners, for clinical practice guideline developers, and for those designing and justifying primary research. Having an up-to-date and comprehensive review is therefore important. Our main objective was to determine the recency of systematic reviews at the time of their publication, as measured by the time from last search date to publication. We also wanted to study the time from search date to acceptance, and from acceptance to publication, and measure the proportion of systematic reviews with recorded information on search dates and information sources in the abstract and full text of the review.A descriptive analysis of published systematic reviews indexed in Medline in 2009, 2010 and 2011 by three reviewers, independently extracting data.Of the 300 systematic reviews included, 271 (90%) provided the date of search in the full-text article, but only 141 (47%) stated this in the abstract. The median (standard error; minimum to maximum) survival time from last search to acceptance was 5.1 (0.58; 0 to 43.8) months (95% confidence interval = 3.9 to 6.2) and from last search to first publication time was 8.0 (0.35; 0 to 46.7) months (95% confidence interval = 7.3 to 8.7), respectively. Of the 300 reviews, 295 (98%) stated which databases had been searched, but only 181 (60%) stated the databases in the abstract. Most researchers searched three (35%) or four (21%) databases. The top-three most used databases were MEDLINE (79%), Cochrane library (76%), and EMBASE (64%).Being able to identify comprehensive, up-to-date reviews is important to clinicians, guideline groups, and those designing clinical trials. This study demonstrates that some reviews have a considerable delay between search and publication, but only 47% of systematic review abstracts stated the last search date and 60% stated the databases that had been searched. Improvements in the quality of abstracts of systematic reviews and ways to shorten the review and revision processes to make review publication more rapid are needed.
+T2  - Systematic reviews
+VL  - 2
+SP  - 36
+PY  - 2013
+C1  - 17
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23714302
+UR  - 
+KW  - Biomedical Research
+KW  - Humans
+KW  - Publishing:standards
+KW  - Review Literature as Topic
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 23865098
+AN  - 23865098
+DB  - Pubmed
+LB  - 
+AU  - Newberry, SJ
+AU  - Ahmadzai, N
+AU  - Motala, A
+AU  - Tsertsvadze, A
+AU  - Maglione, M
+AU  - Ansari, MT
+AU  - Hempel, S
+AU  - Tsouros, S
+AU  - Schneider Chafen, J
+AU  - Shanman, R
+AU  - Skidmore, B
+AU  - Moher, D
+AU  - Shekelle, PG
+TI  - Book: Surveillance and Identification of Signals for Updating Systematic Reviews: Implementation and Early Experience
+AB  - The question of how to determine when a systematic review needs to be updated is of considerable importance. Changes in the evidence can have significant implications for clinical practice guidelines and for clinical and consumer decision-making that depend on up-to-date systematic reviews as their foundation. Methods have been developed for assessing signals of the need for updating, but these methods have been applied only in studies designed to demonstrate and refine the methods , and not as an operational component of a program for systematic reviews.The Agency for Healthcare Research and Quality (AHRQ) Evidence-based Practice (EPC) program commissioned RAND's Southern Californian Evidence-based Practice Center (SCEPC) and University of Ottawa Evidence-based Practice Center (UOEPC), with assistance from the ECRI EPC, to develop and implement a surveillance process for quickly identifying Comparative Effectiveness Reviews (CERs) in need of updating.We established a surveillance program that implemented and refined a process to assess the need for updating CERs. The process combined methods developed by the SCEPC and the UOEPC for prior projects on identifying signals for updating: an abbreviated literature search, abstraction of the study conditions and findings for each new included study, solicitation of expert judgments on the currency of the original conclusions, and an assessment of whether the new findings provided a signal according to the Ottawa Method and/or the RAND Method, on a conclusion-by-conclusion basis. Lastly, an overall summary assessment was made that classified each CER as being of high, medium, or low priority for updating. If a CER was deemed to be a low or medium priority for updating, the process would be repeated 6 months later; if the priority for updating was deemed high, the CER would be withdrawn from subsequent 6-month assessments.Between June 2011 and June 2012, we established a surveillance process and completed the evaluation of 14 CERs. Of the 14 CERs, 2 were classified as high priority, 3 as medium priority, and 9 as low priority. Of the 6 CERs released prior to 2010 (meaning over 18 months before the start of the program) 2 were judged high priority, 2 were judged medium priority, and 2 were judged low priority for updating. We have shown it is both useful and feasible to do such surveillance, in real time, across a program that produces a large number of systematic reviews on diverse topics.
+T2  - Book: Surveillance and Identification of Signals for Updating Systematic Reviews: Implementation and Early Experience
+VL  - 
+PY  - 2013
+C1  - 18
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23865098
+UR  - 
+KW  - review
+ER  - 
+
+TY  - JOUR
+ID  - 23185281
+AN  - 23185281
+DB  - Pubmed
+LB  - 
+AU  - Pattanittum, P
+AU  - Laopaiboon, M
+AU  - Moher, D
+AU  - Lumbiganon, P
+AU  - Ngamjarus, C
+TI  - A comparison of statistical methods for identifying out-of-date systematic reviews.
+AB  - Systematic reviews (SRs) can provide accurate and reliable evidence, typically about the effectiveness of health interventions. Evidence is dynamic, and if SRs are out-of-date this information may not be useful; it may even be harmful. This study aimed to compare five statistical methods to identify out-of-date SRs.A retrospective cohort of SRs registered in the Cochrane Pregnancy and Childbirth Group (CPCG), published between 2008 and 2010, were considered for inclusion. For each eligible CPCG review, data were extracted and "3-years previous" meta-analyses were assessed for the need to update, given the data from the most recent 3 years. Each of the five statistical methods was used, with random effects analyses throughout the study.Eighty reviews were included in this study; most were in the area of induction of labour. The numbers of reviews identified as being out-of-date using the Ottawa, recursive cumulative meta-analysis (CMA), and Barrowman methods were 34, 7, and 7 respectively. No reviews were identified as being out-of-date using the simulation-based power method, or the CMA for sufficiency and stability method. The overall agreement among the three discriminating statistical methods was slight (Kappa = 0.14; 95% CI 0.05 to 0.23). The recursive cumulative meta-analysis, Ottawa, and Barrowman methods were practical according to the study criteria.Our study shows that three practical statistical methods could be applied to examine the need to update SRs.
+T2  - PloS one
+VL  - 7
+SP  - e48894
+PY  - 2012
+C1  - 19
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23185281
+UR  - 
+KW  - Computer Simulation
+KW  - Meta-Analysis as Topic
+KW  - Review Literature as Topic
+KW  - Statistics as Topic:methods
+KW  - comparative study
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 22515596
+AN  - 22515596
+DB  - Pubmed
+LB  - 
+AU  - Cohen, AM
+AU  - Ambert, K
+AU  - McDonagh, M
+TI  - Studying the potential impact of automated document classification on scheduling a systematic review update.
+AB  - Systematic Reviews (SRs) are an essential part of evidence-based medicine, providing support for clinical practice and policy on a wide range of medical topics. However, producing SRs is resource-intensive, and progress in the research they review leads to SRs becoming outdated, requiring updates. Although the question of how and when to update SRs has been studied, the best method for determining when to update is still unclear, necessitating further research.In this work we study the potential impact of a machine learning-based automated system for providing alerts when new publications become available within an SR topic. Some of these new publications are especially important, as they report findings that are more likely to initiate a review update. To this end, we have designed a classification algorithm to identify articles that are likely to be included in an SR update, along with an annotation scheme designed to identify the most important publications in a topic area. Using an SR database containing over 70,000 articles, we annotated articles from 9 topics that had received an update during the study period. The algorithm was then evaluated in terms of the overall correct and incorrect alert rate for publications meeting the topic inclusion criteria, as well as in terms of its ability to identify important, update-motivating publications in a topic area.Our initial approach, based on our previous work in topic-specific SR publication classification, identifies over 70% of the most important new publications, while maintaining a low overall alert rate.We performed an initial analysis of the opportunities and challenges in aiding the SR update planning process with an informatics-based machine learning approach. Alerts could be a useful tool in the planning, scheduling, and allocation of resources for SR updates, providing an improvement in timeliness and coverage for the large number of medical topics needing SRs. While the performance of this initial method is not perfect, it could be a useful supplement to current approaches to scheduling an SR update. Approaches specifically targeting the types of important publications identified by this work are likely to improve results.
+T2  - BMC medical informatics and decision making
+VL  - 12
+SP  - 33
+PY  - 2012
+C1  - 20
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/22515596
+UR  - 
+KW  - Algorithms
+KW  - Artificial Intelligence:standards
+KW  - Databases, Factual
+KW  - Evidence-Based Medicine
+KW  - Humans
+KW  - Research Design
+KW  - Review Literature as Topic
+KW  - journal article
+KW  - research support, n.i.h., extramural
+ER  - 
+
+TY  - JOUR
+ID  - 22464414
+AN  - 22464414
+DB  - Pubmed
+LB  - 
+AU  - Chung, M
+AU  - Newberry, SJ
+AU  - Ansari, MT
+AU  - Yu, WW
+AU  - Wu, H
+AU  - Lee, J
+AU  - Suttorp, M
+AU  - Gaylor, JM
+AU  - Motala, A
+AU  - Moher, D
+AU  - Balk, EM
+AU  - Shekelle, PG
+TI  - Two methods provide similar signals for the need to update systematic reviews.
+AB  - Apply and compare two methods that identify signals for the need to update systematic reviews, using three Evidence-based Practice Center reports on omega-3 fatty acids as test cases.We applied the RAND method, which uses domain (subject matter) expert guidance, and a modified Ottawa method, which uses quantitative and qualitative signals. For both methods, we conducted focused electronic literature searches of recent studies using the key terms from the original reports. We assessed the agreement between the methods and qualitatively assessed the merits of each system.Agreement between the two methods was "substantial" or better (kappa>0.62) in three of the four systematic reviews. Overall agreement between the methods was "substantial" (kappa=0.64, 95% confidence interval [CI] 0.45-0.83).The RAND and modified Ottawa methods appear to provide similar signals for the possible need to update systematic reviews in this pilot study. Future evaluation with a broader range of clinical topics and eventual comparisons between signals to update reports and the results of full evidence review updates will be needed. We propose a hybrid approach combining the best features of both methods, which should allow efficient review and assessment of the need to update.
+T2  - Journal of clinical epidemiology
+VL  - 65
+SP  - 660
+EP  - 8
+PY  - 2012
+C1  - 21
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/22464414
+UR  - 
+KW  - Confidence Intervals
+KW  - Evidence-Based Medicine
+KW  - Fatty Acids, Omega-3
+KW  - Humans
+KW  - Information Storage and Retrieval:standards
+KW  - Periodicals as Topic:standards
+KW  - Pilot Projects
+KW  - Review Literature as Topic
+KW  - Fatty Acids, Omega-3
+KW  - comparative study
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 21684114
+AN  - 21684114
+DB  - Pubmed
+LB  - 
+AU  - Tsertsvadze, A
+AU  - Maglione, M
+AU  - Chou, R
+AU  - Garritty, C
+AU  - Coleman, C
+AU  - Lux, L
+AU  - Bass, E
+AU  - Balshem, H
+AU  - Moher, D
+TI  - Updating comparative effectiveness reviews: current efforts in AHRQ's Effective Health Care Program.
+AB  - To review the current knowledge and efforts on updating systematic reviews (SRs) as applied to comparative effectiveness reviews (CERs).This article outlines considerations for updating CERs by including a definition of the updating process, describing issues around assessing whether to update, and providing general guidelines for the update process. Key points to consider include (1) identifying when to update CERs, (2) how to update CERs, and (3) how to present, report, and interpret updated results in CERs.Currently, there is little information about what proportion of SRs needs updating. Similarly, there is no consensus on when to initiate updating and how best to carry it out.CERs need to be regularly updated as new evidence is produced. Lack of attention to updating may lead to outdated and sometimes misleading conclusions that compromise health care and policy decisions. The article outlines several specific goals for future research, one of them being the development of efficient guideline for updating CERs applicable across evidence-based practice centers.
+T2  - Journal of clinical epidemiology
+VL  - 64
+SP  - 1208
+EP  - 15
+PY  - 2011
+C1  - 22
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/21684114
+UR  - 
+KW  - Authorship
+KW  - Comparative Effectiveness Research:methods
+KW  - Comparative Effectiveness Research:standards
+KW  - Comparative Effectiveness Research:trends
+KW  - Data Interpretation, Statistical
+KW  - Databases, Bibliographic
+KW  - Evidence-Based Practice:methods
+KW  - Government Programs
+KW  - Guidelines as Topic
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Review Literature as Topic
+KW  - Time Factors
+KW  - United States
+KW  - United States Agency for Healthcare Research and Quality
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 21343828
+AN  - 21343828
+DB  - Pubmed
+LB  - 
+AU  - Phung, OJ
+AU  - Baker, WL
+AU  - Baker, EL
+AU  - Coleman, CI
+TI  - Intent to update systematic reviews: results of an internet survey.
+AB  - Updating a systematic review may be necessary when newer evidence is available. Several barriers to conducting updated systematic reviews have been hypothesized.To conduct an Internet survey to identify the relationship between author and study characteristics and the intent to update a systematic review, to quantify this relationship, and to query authors about perceived barriers to updating.Manual search of ACP Journal Club (January 2007-December 2008) for featured systematic reviews and/or meta-analyses identified participants. We collected participant demographics and questioned participants on intentions of updating and potential barriers. All variables showing univariate association (P < 0.1) were entered into a backward-stepwise multivariate model.Upon multivariate logistic regression, those who spend greater than 25% of time dedicated to systematic review were significantly more likely to update their review (adjusted odds ratio, 7.25; 95% confidence interval, 1.45-35.71). Conversely, those whose primary funding was from a government source were significantly less likely to conduct an update (adjusted odds ratio, 0.08; 95% confidence interval, 0.01-0.50).Authors who spend more time on systematic reviews were more likely to update, whereas those with government funding were less likely to update their systematic reviews. Surveyed authors also identified several perceived barriers to updating. Future efforts may aim to reduce barriers and provide incentives to authors to improve updating practices.
+T2  - Journal of investigative medicine : the official publication of the American Federation for Clinical Research
+VL  - 59
+SP  - 811
+EP  - 5
+PY  - 2011
+C1  - 23
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/21343828
+UR  - 
+KW  - Bibliometrics
+KW  - Biomedical Research:trends
+KW  - Decision Making
+KW  - Humans
+KW  - Internet
+KW  - Multivariate Analysis
+KW  - Odds Ratio
+KW  - Regression Analysis
+KW  - Review Literature as Topic
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 21834176
+AN  - 21834176
+DB  - Pubmed
+LB  - 
+AU  - Shekelle, PG
+AU  - Newberry, SJ
+AU  - Wu, H
+AU  - Suttorp, M
+AU  - Motala, A
+AU  - Lim, YW
+AU  - Balk, EM
+AU  - Chung, M
+AU  - Yu, WW
+AU  - Lee, J
+AU  - Gaylor, JM
+AU  - Moher, D
+AU  - Ansari, MT
+AU  - Skidmore, R
+AU  - Garritty, C
+TI  - Book: Identifying Signals for Updating Systematic Reviews: A Comparison of Two Methods
+AB  - Methods of assessing the need for systematic reviews to be updated have been published, but agreement among them is unclear.To compare two methods for assessing the need to update an evidence review, using three evidence reports on the effects of omega-3 fatty acids on cancer, cognition and aging, and cardiovascular diseases (with separate analyses for fish oil and alpha-linolenic acid). The RAND method combines a targeted literature search with the assessments of content experts. The Ottawa method relies on a quantitative and qualitative assessment of the study results from a similar targeted search.A MEDLINE search was conducted on a limited set of journals, including five pivotal general medical journals and a small number of specialty journals, from 1 year prior to release of the original reports using their search strategies.The search results were screened using the original eligibility criteria. Study-level data and findings of existing systematic reviews, randomized controlled trials, and large observational studies addressing the original key questions were abstracted. Using the RAND method, we contacted experts—including members of the original technical expert panels and the original peer reviewers—and sought their opinions regarding the status of the original reports and any new references. The results of the literature reviews and expert opinions were combined to determine the need for updating based on predetermined criteria. Using a modification of the Ottawa method, new trial data were meta-analyzed with the original meta-analysis results. A quantitative signal for the need to update was based on statistical differences with the original meta-analyses. Qualitative signals, such as differences in characterizations of effectiveness, new information about harm, and caveats about the previously reported findings, were sought for outcomes without existing meta-analyses. Agreement between the RAND and Ottawa methods was assessed for each report with the kappa statistic.Overall agreement between the two methods ranged from “nonexistent” (kappa = 0.19, for fish oil and cardiovascular disease) to “almost perfect” (kappa = 1.0 for cognitive function). Many of the disagreements between the methods were due to a situation where the original review had a Key Question with no evidence and some evidence was identified in the update. In these situations, the RAND method produced a positive signal for updating and Ottawa's method produced a negative signal. A sensitivity analysis that reclassified these situations as agreement between the two methods yielded much better estimates of agreement: for three of the four conditions, agreement was “substantial” to “almost perfect” and overall agreement was “substantial.”The RAND method and the modified Ottawa method agree reasonably well in their assessment of the need to update reviews. Both methods alone or in combination may be considered as appropriate tools. Future research would confirm these conclusions for a larger cohort of reviews and assess the predictive validity of the methods with actual updates.
+T2  - Book: Identifying Signals for Updating Systematic Reviews: A Comparison of Two Methods
+VL  - 
+PY  - 2011
+C1  - 24
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/21834176
+UR  - 
+KW  - review
+ER  - 
+
+TY  - JOUR
+ID  - 20644625
+AN  - 20644625
+DB  - Pubmed
+LB  - 
+AU  - Jaidee, W
+AU  - Moher, D
+AU  - Laopaiboon, M
+TI  - Time to update and quantitative changes in the results of cochrane pregnancy and childbirth reviews.
+AB  - The recommended interval between updates for systematic reviews included in The Cochrane Library is 2 years. However, it is unclear whether this interval is always appropriate. Whereas excessive updating wastes time and resources, insufficient updating allows out-of-date or incomplete evidence to guide clinical decision-making. We set out to determine, for Cochrane pregnancy and childbirth reviews, the frequency of updates, factors associated with updating, and whether updating frequency was appropriate.Cochrane pregnancy and childbirth reviews published in Issue 3, 2007 of the Cochrane Database of Systematic Reviews were retrieved, and data were collected from their original and updated versions. Quantitative changes were determined for one of the primary outcomes (mortality, or the outcome of greatest clinical significance). Potential factors associated with time to update were assessed using the Cox proportional hazard model. Among the 101 reviews in our final sample, the median time before the first update was 3.3 years (95% CI 2.7-3.8). Only 32.7% had been updated within the recommended interval of 2 years. In 75.3% (76/101), a median of 3 new trials with a median of 576 additional participants were included in the updated versions. There were quantitative changes in 71% of the reviews that included new trials (54/76): the median change in effect size was 18.2%, and the median change in 95% CI width was 30.8%. Statistical significance changed in 18.5% (10/54) of these reviews, but conclusions were revised in only 3.7% (2/54). A shorter time to update was associated with the same original review team at updating.Most reviews were updated less frequently than recommended by Cochrane policy, but few updates had revised conclusions. Prescribed time to update should be reconsidered to support improved decision-making while making efficient use of limited resources.
+T2  - PloS one
+VL  - 5
+SP  - e11553
+PY  - 2010
+C1  - 25
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/20644625
+UR  - 
+KW  - Female
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Parturition
+KW  - Pregnancy
+KW  - Publishing
+KW  - Review Literature as Topic
+KW  - Time Factors
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 20376338
+AN  - 20376338
+DB  - Pubmed
+LB  - 
+AU  - Garritty, C
+AU  - Tsertsvadze, A
+AU  - Tricco, AC
+AU  - Sampson, M
+AU  - Moher, D
+TI  - Updating systematic reviews: an international survey.
+AB  - Systematic reviews (SRs) should be up to date to maintain their importance in informing healthcare policy and practice. However, little guidance is available about when and how to update SRs. Moreover, the updating policies and practices of organizations that commission or produce SRs are unclear.The objective was to describe the updating practices and policies of agencies that sponsor or conduct SRs. An Internet-based survey was administered to a purposive non-random sample of 195 healthcare organizations within the international SR community. Survey results were analyzed using descriptive statistics. The completed response rate was 58% (n = 114) from across 26 countries with 70% (75/107) of participants identified as producers of SRs. Among responders, 79% (84/107) characterized the importance of updating as high or very-high and 57% (60/106) of organizations reported to have a formal policy for updating. However, only 29% (35/106) of organizations made reference to a written policy document. Several groups (62/105; 59%) reported updating practices as irregular, and over half (53/103) of organizational respondents estimated that more than 50% of their respective SRs were likely out of date. Authors of the original SR (42/106; 40%) were most often deemed responsible for ensuring SRs were current. Barriers to updating included resource constraints, reviewer motivation, lack of academic credit, and limited publishing formats. Most respondents (70/100; 70%) indicated that they supported centralization of updating efforts across institutions or agencies. Furthermore, 84% (83/99) of respondents indicated they favoured the development of a central registry of SRs, analogous to efforts within the clinical trials community.Most organizations that sponsor and/or carry out SRs consider updating important. Despite this recognition, updating practices are not regular, and many organizations lack a formal written policy for updating SRs. This research marks the first baseline data available on updating from an organizational perspective.
+T2  - PloS one
+VL  - 5
+SP  - e9914
+PY  - 2010
+C1  - 26
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/20376338
+UR  - 
+KW  - Data Collection
+KW  - Public Policy
+KW  - Review Literature as Topic
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 19567792
+AN  - 19567792
+DB  - Pubmed
+LB  - 
+AU  - Cohen, AM
+AU  - Ambert, K
+AU  - McDonagh, M
+TI  - Cross-topic learning for work prioritization in systematic review creation and update.
+AB  - Machine learning systems can be an aid to experts performing systematic reviews (SRs) by automatically ranking journal articles for work-prioritization. This work investigates whether a topic-specific automated document ranking system for SRs can be improved using a hybrid approach, combining topic-specific training data with data from other SR topics.A test collection was built using annotated reference files from 24 systematic drug class reviews. A support vector machine learning algorithm was evaluated with cross-validation, using seven different fractions of topic-specific training data in combination with samples from the other 23 topics. This approach was compared to both a baseline system, which used only topic-specific training data, and to a system using only the nontopic data sampled from the remaining topics.Mean area under the receiver-operating curve (AUC) was used as the measure of comparison.On average, the hybrid system improved mean AUC over the baseline system by 20%, when topic-specific training data were scarce. The system performed significantly better than the baseline system at all levels of topic-specific training data. In addition, the system performed better than the nontopic system at all but the two smallest fractions of topic specific training data, and no worse than the nontopic system with these smallest amounts of topic specific training data.Automated literature prioritization could be helpful in assisting experts to organize their time when performing systematic reviews. Future work will focus on extending the algorithm to use additional sources of topic-specific data, and on embedding the algorithm in an interactive system available to systematic reviewers during the literature review process.
+T2  - Journal of the American Medical Informatics Association : JAMIA
+VL  - 16
+SP  - 690
+EP  - 704
+PY  - 2009
+C1  - 27
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/19567792
+UR  - 
+KW  - Algorithms
+KW  - Artificial Intelligence
+KW  - Bibliometrics
+KW  - Decision Support Techniques
+KW  - Humans
+KW  - ROC Curve
+KW  - Review Literature as Topic
+KW  - comparative study
+KW  - evaluation studies
+KW  - journal article
+KW  - research support, n.i.h., extramural
+ER  - 
+
+TY  - JOUR
+ID  - 18783919
+AN  - 18783919
+DB  - Pubmed
+LB  - 
+AU  - Sutton, AJ
+AU  - Donegan, S
+AU  - Takwoingi, Y
+AU  - Garner, P
+AU  - Gamble, C
+AU  - Donald, A
+TI  - An encouraging assessment of methods to inform priorities for updating systematic reviews.
+AB  - To consider the use of statistical methods that aim to prioritize the updating of a collection of systematic reviews based on preliminary literature searches.A new simulation-based method estimating statistical power and the ratio of the weights assigned to the predicted new and old evidence, and the existing Barrowman n approach is considered. Using only information on the numbers of subjects randomized in the "new" trials, these were applied retrospectively, by removing recent studies, to existing systematic reviews from the Cochrane Infectious Diseases Group.Twelve systematic reviews were included. When the removed studies were reinstated, inferences changed in five of them. These reviews were ranked, in order of update priority, 1, 2, 3, 4, and 11 and 1, 2, 3, 4, and 12 by the Barrowman n and simulation-based power approaches, respectively. The low ranking of one significant meta-analysis by both methods was due to unexpectedly favorable results in the reinstated study.This study demonstrates the feasibility of the use of analytical methods to inform update prioritization strategies. Under conditions of homogeneity, Barrowman's n and simulated power were in close agreement. We encourage further, prospective, evaluation of these methods.
+T2  - Journal of clinical epidemiology
+VL  - 62
+SP  - 241
+EP  - 51
+PY  - 2009
+C1  - 28
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/18783919
+UR  - 
+KW  - Feasibility Studies
+KW  - Humans
+KW  - Information Storage and Retrieval:standards
+KW  - Meta-Analysis as Topic
+KW  - Models, Statistical
+KW  - Randomized Controlled Trials as Topic
+KW  - Research
+KW  - Review Literature as Topic
+KW  - Time Factors
+KW  - evaluation studies
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 21204320
+AN  - 21204320
+DB  - Pubmed
+LB  - 
+AU  - Shekelle, P
+AU  - Newberry, S
+AU  - Maglione, M
+AU  - Shanman, R
+AU  - Johnsen, B
+AU  - Carter, J
+AU  - Motala, A
+AU  - Hulley, B
+AU  - Wang, Z
+AU  - Bravata, D
+AU  - Chen, M
+AU  - Grossman, J
+TI  - Book: Assessment of the Need to Update Comparative Effectiveness Reviews: Report of an Initial Rapid Program Assessment (2005–2009)
+AB  - AHRQ recognizes that periodic assessments of the evidence base supporting each of the comparative effectiveness reviews is an important and necessary part of the
+                Effective Health Care (EHC) Program. The rapidity with which new research findings
+                accumulate makes it imperative that the evidence be assessed periodically to
+                determine the need for a full-scale update. The EHC Program, then, initiated
+                concurrent and parallel work to address this need both methodologically and
+                programmatically. The development of methods guidance for updating was initiated to
+                inform the research of systematic reviewers. This methodologic guidance will
+                supplement the EHC Methods Guide for Comparative Effectiveness Reviews (www.effectiveheathcare.gov). In parallel with the methods effort, an
+                initial, rapid program assessment was commissioned to assess the need for the
+                findings of the CERs completed to that point to be updated. The Southern California
+                Evidence-based Practice Center (SCEPC) was tasked with conducting this assessment.
+                Findings from the assessment were presented to AHRQ for consideration within the
+                usual program criteria to prioritize the topics for updating within the EHC Program.
+                This document presents the findings from the assessment for public information and
+                transparency.
+T2  - Book: Assessment of the Need to Update Comparative Effectiveness Reviews: Report of an Initial Rapid Program Assessment (2005–2009)
+VL  - 
+PY  - 2009
+C1  - 29
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/21204320
+UR  - 
+KW  - review
+ER  - 
+
+TY  - JOUR
+ID  - 18586179
+AN  - 18586179
+DB  - Pubmed
+LB  - 
+AU  - Sampson, M
+AU  - Shojania, KG
+AU  - McGowan, J
+AU  - Daniel, R
+AU  - Rader, T
+AU  - Iansavichene, AE
+AU  - Ji, J
+AU  - Ansari, MT
+AU  - Moher, D
+TI  - Surveillance search techniques identified the need to update systematic reviews.
+AB  - This article reports on literature surveillance methods to identify new evidence eligible for updating systematic reviews.Five surveillance search approaches are tested in the context of identifying studies that would signal major or invalidating new evidence for existing systematic reviews of health care interventions. Recall for each search approach was assessed as proportion of a composite yield of relevant studies across all search approaches that were identified by that approach. Screening burden was the number of studies that would need to be reviewed to identify the evidence that would necessitate updating.Searches were tested in a cohort of 77 systematic reviews. No one method yielded consistently high recall of relevant new evidence, so combinations of the strategies were examined. A search algorithm based on PubMed's related article search in combination with a subject searching using clinical queries was the most effective combination, retrieving all relevant new records in 68 cases. Screening burden was a median of 71 new records per review (inter-quartile range: 42-161).Surveillance for emerging evidence that signals the need to update systematic reviews is feasible using a combination of subject searching and searching based on the PubMed's related article function.
+T2  - Journal of clinical epidemiology
+VL  - 61
+SP  - 755
+EP  - 62
+PY  - 2008
+C1  - 30
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/18586179
+UR  - 
+KW  - Algorithms
+KW  - Cohort Studies
+KW  - Delivery of Health Care
+KW  - Feasibility Studies
+KW  - Humans
+KW  - Information Storage and Retrieval:standards
+KW  - MEDLINE
+KW  - Meta-Analysis as Topic
+KW  - PubMed
+KW  - Randomized Controlled Trials as Topic
+KW  - Review Literature as Topic
+KW  - journal article
+KW  - research support, u.s. gov't, p.h.s.
+ER  - 
+
+TY  - JOUR
+ID  - 18254126
+AN  - 18254126
+DB  - Pubmed
+LB  - 
+AU  - Moher, D
+AU  - Tsertsvadze, A
+AU  - Tricco, AC
+AU  - Eccles, M
+AU  - Grimshaw, J
+AU  - Sampson, M
+AU  - Barrowman, N
+TI  - When and how to update systematic reviews.
+AB  - Systematic reviews are most helpful if they are up-to-date. We did a systematic review of strategies and methods describing when and how to update systematic reviews.To identify, describe and assess strategies and methods addressing: 1) when to update systematic reviews and 2) how to update systematic reviews.We searched MEDLINE (1966 to December 2005), PsycINFO, the Cochrane Methodology Register (Issue 1, 2006), and hand searched the 2005 Cochrane Colloquium proceedings.We included methodology reports, updated systematic reviews, commentaries, editorials, or other short reports describing the development, use, or comparison of strategies and methods for determining the need for updating or updating systematic reviews in healthcare.We abstracted information from each included report using a 15-item questionnaire. The strategies and methods for updating systematic reviews were assessed and compared descriptively with respect to their usefulness, comprehensiveness, advantages, and disadvantages.Four updating strategies, one technique, and two statistical methods were identified. Three strategies addressed steps for updating and one strategy presented a model for assessing the need to update. One technique discussed the use of the "entry date" field in bibliographic searching. Statistical methods were cumulative meta-analysis and predicting when meta-analyses are outdated.Little research has been conducted on when and how to update systematic reviews and the feasibility and efficiency of the identified approaches is uncertain. These shortcomings should be addressed in future research.
+T2  - The Cochrane database of systematic reviews
+VL  - 
+SP  - MR000023
+PY  - 2008
+C1  - 31
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/18254126
+UR  - 
+KW  - Meta-Analysis as Topic
+KW  - Practice Guidelines as Topic
+KW  - Review Literature as Topic
+KW  - Time Factors
+KW  - journal article
+KW  - review
+KW  - systematic review
+ER  - 
+
+TY  - JOUR
+ID  - 17938050
+AN  - 17938050
+DB  - Pubmed
+LB  - 
+AU  - Moher, D
+AU  - Tsertsvadze, A
+AU  - Tricco, AC
+AU  - Eccles, M
+AU  - Grimshaw, J
+AU  - Sampson, M
+AU  - Barrowman, N
+TI  - A systematic review identified few methods and strategies describing when and how to update systematic reviews.
+AB  - Systematic reviews (SRs) are convenient summaries of evidence for health care practitioners. They form a basis for clinical practice guidelines and suggest directions for new research. SRs are most helpful if they are current; however, most of them are not being updated. This SR summarizes strategies and methods describing when and how to update SRs.We searched MEDLINE (1966 to December 2005), PsycINFO, the Cochrane Methodology Register, and the 2005 Cochrane Colloquium proceedings to identify records describing when and how to update SRs in health care.Four updating strategies, one technique, and two statistical methods were identified. Three strategies addressed steps for updating, and one strategy presented a model for assessing the need to update. One technique discussed the use of the "entry date" field in bibliographic searching. The statistical methods were cumulative meta-analysis and a test for detecting outdated meta-analyses with statistically nonsignificant results.Little research has been conducted on when and how to update SRs in contrast to other methodological areas of conducting SRs (e.g., publication bias, variance imputation). The feasibility and efficiency of the identified approaches is uncertain. More research is needed to develop pragmatic and efficient methodologies for updating SRs.
+T2  - Journal of clinical epidemiology
+VL  - 60
+SP  - 1095
+EP  - 1104
+PY  - 2007
+C1  - 32
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/17938050
+UR  - 
+KW  - Bibliometrics
+KW  - Data Interpretation, Statistical
+KW  - Databases, Bibliographic
+KW  - Meta-Analysis as Topic
+KW  - Peer Review, Research
+KW  - Periodicals as Topic
+KW  - Randomized Controlled Trials as Topic
+KW  - Review Literature as Topic
+KW  - journal article
+KW  - research support, non-u.s. gov't
+KW  - review
+KW  - systematic review
+ER  - 
+
+TY  - JOUR
+ID  - 17638714
+AN  - 17638714
+DB  - Pubmed
+LB  - 
+AU  - Shojania, KG
+AU  - Sampson, M
+AU  - Ansari, MT
+AU  - Ji, J
+AU  - Doucette, S
+AU  - Moher, D
+TI  - How quickly do systematic reviews go out of date? A survival analysis.
+AB  - Systematic reviews are often advocated as the best source of evidence to guide clinical decisions and health care policy, yet we know little about the extent to which they require updating.To estimate the average time to changes in evidence that are sufficiently important to warrant updating systematic reviews.Survival analysis of 100 quantitative systematic reviews.Systematic reviews published from 1995 to 2005 and indexed in ACP Journal Club. Eligible reviews evaluated a specific drug or class of drug, device, or procedure and included only randomized or quasi-randomized, controlled trials.Quantitative signals for updating were changes in statistical significance or relative changes in effect magnitude of at least 50% involving 1 of the primary outcomes of the original systematic review or any mortality outcome. Qualitative signals included substantial differences in characterizations of effectiveness, new information about harm, and caveats about the previously reported findings that would affect clinical decision making.The cohort of 100 systematic reviews included a median of 13 studies and 2663 participants per review. A qualitative or quantitative signal for updating occurred for 57% of reviews (95% CI, 47% to 67%). Median duration of survival free of a signal for updating was 5.5 years (CI, 4.6 to 7.6 years). However, a signal occurred within 2 years for 23% of reviews and within 1 year for 15%. In 7%, a signal had already occurred at the time of publication. Only 4% of reviews had a signal within 1 year of the end of the reported search period; 11% had a signal within 2 years of the search. Shorter survival was associated with cardiovascular topics (hazard ratio, 2.70 [CI, 1.36 to 5.34]) and heterogeneity in the original review (hazard ratio, 2.15 [CI, 1.12 to 4.11]).Judgments of the need for updating were made without involving content experts.In a cohort of high-quality systematic reviews directly relevant to clinical practice, signals for updating occurred frequently and within a relatively short time.
+T2  - Annals of internal medicine
+VL  - 147
+SP  - 224
+EP  - 33
+PY  - 2007
+C1  - 33
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/17638714
+UR  - 
+KW  - Evidence-Based Medicine:standards
+KW  - Evidence-Based Medicine:statistics & numerical data
+KW  - Meta-Analysis as Topic
+KW  - Review Literature as Topic
+KW  - Survival Analysis
+KW  - Time Factors
+KW  - journal article
+KW  - research support, u.s. gov't, p.h.s.
+ER  - 
+
+TY  - JOUR
+ID  - 20734512
+AN  - 20734512
+DB  - Pubmed
+LB  - 
+AU  - Shojania, KG
+AU  - Sampson, M
+AU  - Ansari, MT
+AU  - Ji, J
+AU  - Garritty, C
+AU  - Rader, T
+AU  - Moher, D
+TI  - Book: Updating Systematic Reviews
+AB  - Systematic reviews are often advocated as the best source of evidence to guide both
+               clinical decisions and healthcare policy, yet we know very little about the extent to
+               which they require updating.To estimate the average time to changes in evidence sufficiently important to warrant
+               updating systematic reviews (referred to as the survival time) and to identify any
+               characteristics that increase or decrease these survival times. To determine the performance characteristics of various surveillance protocols to
+               identify important new evidence. To assess the utility of rates and patterns of growth for evidence within clinical
+               areas as predictors of updating needs. To establish typical timeframes for the production and publication of systematic
+               reviews in order to assess the extent to which they impact survival time (e.g.,
+               whether or not delays in the peer review and publication processes substantially
+               shorten the time in the public domain before new evidence requires updating of a
+               given systematic review). To characterize current updating practices and policies of agencies that sponsor
+               systematic reviews.Survival analysis for a cohort of 100 quantitative systematic reviews that were
+               indexed in ACP Journal Club with an accompanying commentary;
+               supplementary sample of Cochrane reviews meeting the same criteria and AHRQ evidence
+               reports; internet-based survey of agencies that sponsor or undertake systematic
+               reviews.Eligible reviews evaluated the clinical benefit or harm of a specific (class of)
+               drug, device, or procedure, were originally published between 1995 and 2005, and
+               included at least one quantitative synthesis result in the form of an odds ratio,
+               relative risk, risk difference, or mean difference. For the survey of updating
+               policies and practices, we contacted 22 organizations that are well-known to produce
+               or fund systematic reviews (including 12 AHRQ Evidence-based Practice Centers).Systematic reviews indexed in ACP J Club and eligible new trials identified through
+               five search protocols.Quantitative signals for updating consisted of changes in statistical significance or
+               a relative change in effect magnitude of at least 50 percent involving one of the
+               primary outcomes of the original systematic review or any mortality outcome. These
+               signals were assessed by comparing the original meta-analytic results with updated
+               results that included eligible new trials. Qualitative signals included substantial
+               differences in characterizations of effectiveness, new information about harm,
+               emergence of superior alternative treatments, and important caveats about the
+               previously reported findings that would affect clinical decisionmaking. The primary outcome of interest was the occurrence of either a qualitative or
+               quantitative signal for updating the original systematic review. We also assessed the
+               occurrence of a signal for updating within 2 years of publication, as some sources
+               (e.g., The Cochrane Library) currently recommend updating systematic reviews every
+               two years. The survey measured existing updating policies, current strategies in use, and
+               additional perceptions related to the updating process from the 18 organizations that
+               responded.The cohort of 100 systematic reviews included a median of 13 studies (inter-quartile
+               range: 8 to 21) and 2663 participants (inter-quartile range: 1281 to 8371) per
+               review. A qualitative or quantitative signal for updating occurred for 57 systematic
+               reviews. Median survival free of a signal for updating was 5.5 years (95% confidence
+               interval [CI]: 4.6–7.6), but in 23 cases (95% CI: 15% to 33%), a signal for updating
+               occurred in less than 2 years, and in 15 cases (95% CI: 9% to 24%) the signal
+               occurred in less than 1 year. In 7 cases (95% CI: 3% to 14%), a signal had already
+               occurred at the time of publication of the original review. Shorter survival was
+               associated with cardiovascular medicine (hazard ratio of 3.26, 95% CI: 1.71 to 6.21;
+               p =0.0003), heterogeneity in the original review (hazard ratio of 2.23, 95% CI: 1.22
+               to 4.09; p =0.01), and having a new trial larger than the previous largest trial
+               (hazard ratio of 1.08, 95% CI: 1.02 to 1.15; p =0.01). Systematic reviews with more
+               than the median of 13 included studies had increased survival (hazard ratio of 0.55;
+               95% CI: 0.31 to 0.98; p =0.04). No feature of the original review significantly
+               predicted a signal for updating occurring within 2 years of publication. Median time from the final search date to indexing 1.4 years (inter-quartile range;
+               0.96–2.0 years). Lags from search to publication were shortest for Cochrane reviews
+               (median 0.6 years, inter-quartile range: 0.42–1.25) and longest for journal reviews
+               (median 1.3 years; inter-quartile range: 0.84–1.77), with technical reports falling
+               in between (median 1.1 years; inter-quartile range: 0.87–1.42) (Kruskal Wallis χ2
+               11.24, p =0.004). Of the five search protocols tested for their effectiveness in identifying eligible
+               new trials, the combination with the highest recall and lowest screening burden were
+               the strategy that used the PubMed Related Articles feature (applied to the three
+               newest and three largest trials included in the original review) and the strategy
+               involved submitting a subject search (based on population and intervention) to the
+               Clinical Query filter for therapy. This combination identified most new signaling
+               evidence with median screening burden of 71 new records per review. For the survey of organizations involved in producing or funding systematic reviews,
+               we received responses from 19 (86%) of the 22 organizations contacted. Approximately
+               two thirds (68%) of respondents identified themselves as producers of systematic
+               reviews and an additional 21% identified themselves as both funders and producers of
+               systematic reviews. Only two respondents (11%) characterized themselves solely as
+               funders of systematic reviews. Approximately 80% of respondents characterized the importance of updating as ‘high’
+               or ‘very high’, although 68% acknowledged not having any formal policies for updating
+               in place. Approximately two thirds (13/19; 68%) of respondents reported that over 20%
+               of the reviews they commission or produce are out of date, and 32% respondents (6/19)
+               reported that at least 50% of their reviews were out of date. Barriers to updating
+               identified by respondents included lack of appropriate methodologies, resource
+               constraints, lack of academic credit, and limited publishing formats. The majority of
+               the sample (16/19; 84%) indicated they ‘somewhat’ to ‘strongly’ favor the development
+               of a central registry, analogous to efforts within the clinical trials community, to
+               coordinate updating activities across agencies and review groups.In a cohort of high quality systematic reviews directly relevant to clinical
+               practice, signals for updating occurred frequently and within relatively short
+               timelines. A number of features significantly affected survival, but none
+               significantly predicted the need for updating within 2 years. Currently, definitive methods about the frequency of updating cannot be made. Blanket
+               recommendation such as every two years will miss a substantial number of important
+               signals for updating that occur within shorter time lines, but more frequent updates
+               will expend substantial resources. Methods for identifying reviews in need of
+               updating based on surveillance for new evidence hold more promise than relying on
+               features of the original review to identify reviews likely to need updating within a
+               short time, but such approaches will require further investigation. Several of the
+               methods tested were feasible, yielding good recall of relevant new evidence with
+               modest screening burdens. The majority of organizations engaged in the funding or production of systematic
+               reviews view the importance of updating systematic reviews as high to very high.
+               Despite this recognition, most organizations report having no formal policy in place
+               for updating previous systematic reviews. Slightly less than half of organizations
+               performed periodic literature searches to identify new evidence, but searching
+               frequencies varied widely, from monthly to every two years. If systematic reviews are to achieve their stated goal of providing the best evidence
+               to inform clinical decision making and healthcare policy, issues related to
+               identifying reviews in need of updating will require much greater attention. In the
+               meantime, publishers of systematic reviews should consider a policy of requiring
+               authors to update searches performed over 12 months prior to submission. And, users
+               of systematic reviews need to recognize that important new evidence can appear within
+               short timelines. When considering the results of a particular systematic review,
+               users should search for more recent reviews or trials to see if any exist and
+               determine if the results are consistent with the previous review.
+T2  - Book: Updating Systematic Reviews
+VL  - 
+PY  - 2007
+C1  - 34
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/20734512
+UR  - 
+KW  - review
+ER  - 
+
+TY  - JOUR
+ID  - 16798384
+AN  - 16798384
+DB  - Pubmed
+LB  - 
+AU  - Muir Gray, JA
+AU  - Pearce-Smith, N
+TI  - Systematic reviews: when is an update an update?
+AB  - 
+T2  - Lancet (London, England)
+VL  - 367
+SP  - 2058
+PY  - 2006
+C1  - 35
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/16798384
+UR  - 
+KW  - Breast Neoplasms
+KW  - Clinical Trials as Topic
+KW  - Female
+KW  - Humans
+KW  - Peer Review, Research:standards
+KW  - Publications
+KW  - comment
+KW  - letter
+ER  - 
+
+TY  - JOUR
+ID  - 16546523
+AN  - 16546523
+DB  - Pubmed
+LB  - 
+AU  - Moher, D
+AU  - Tsertsvadze, A
+TI  - Systematic reviews: when is an update an update?
+AB  - 
+T2  - Lancet (London, England)
+VL  - 367
+SP  - 881
+EP  - 3
+PY  - 2006
+C1  - 36
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/16546523
+UR  - 
+KW  - Review Literature as Topic
+KW  - Time Factors
+KW  - journal article
+ER  - 
+
+TY  - JOUR
+ID  - 16225692
+AN  - 16225692
+DB  - Pubmed
+LB  - 
+AU  - French, SD
+AU  - McDonald, S
+AU  - McKenzie, JE
+AU  - Green, SE
+TI  - Investing in updating: how do conclusions change when Cochrane systematic reviews are updated?
+AB  - Cochrane systematic reviews aim to provide readers with the most up-to-date evidence on the effects of healthcare interventions. The policy of updating Cochrane reviews every two years consumes valuable time and resources and may not be appropriate for all reviews. The objective of this study was to examine the effect of updating Cochrane systematic reviews over a four year period.This descriptive study examined all completed systematic reviews in the Cochrane Database of Systematic Reviews (CDSR) Issue 2, 1998. The latest version of each of these reviews was then identified in CDSR Issue 2, 2002 and changes in the review were described. For reviews that were updated within this time period and had additional studies, we determined whether their conclusion had changed and if there were factors that were predictive of this change.A total of 377 complete reviews were published in CDSR Issue 2, 1998. In Issue 2, 2002, 14 of these reviews were withdrawn and one was split, leaving 362 reviews to examine for the purpose of this study. Of these reviews, 254 (70%) were updated. Of these updated reviews, 23 (9%) had a change in conclusion. Both an increase in precision and a change in statistical significance of the primary outcome were predictive of a change in conclusion of the review.The concerns around a lack of updating for some reviews may not be justified considering the small proportion of updated reviews that resulted in a changed conclusion. A priority-setting approach to the updating of Cochrane systematic reviews may be more appropriate than a time-based approach. Updating all reviews as frequently as every two years may not be necessary, however some reviews may need to be updated more often than every two years.
+T2  - BMC medical research methodology
+VL  - 5
+SP  - 33
+PY  - 2005
+C1  - 37
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/16225692
+UR  - 
+KW  - Bibliometrics
+KW  - Confidence Intervals
+KW  - Data Interpretation, Statistical
+KW  - Databases, Bibliographic
+KW  - Decision Making
+KW  - Evidence-Based Medicine:standards
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Reproducibility of Results
+KW  - Review Literature as Topic
+KW  - Time Factors
+KW  - comparative study
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 12877755
+AN  - 12877755
+DB  - Pubmed
+LB  - 
+AU  - Barrowman, NJ
+AU  - Fang, M
+AU  - Sampson, M
+AU  - Moher, D
+TI  - Identifying null meta-analyses that are ripe for updating.
+AB  - As an increasingly large number of meta-analyses are published, quantitative methods are needed to help clinicians and systematic review teams determine when meta-analyses are not up to date.We propose new methods for determining when non-significant meta-analytic results might be overturned, based on a prediction of the number of participants required in new studies. To guide decision making, we introduce the "new participant ratio", the ratio of the actual number of participants in new studies to the predicted number required to obtain statistical significance. A simulation study was conducted to study the performance of our methods and a real meta-analysis provides further evidence.In our three simulation configurations, our diagnostic test for determining whether a meta-analysis is out of date had sensitivity of 55%, 62%, and 49% with corresponding specificity of 85%, 80%, and 90% respectively.Simulations suggest that our methods are able to detect out-of-date meta-analyses. These quick and approximate methods show promise for use by systematic review teams to help decide whether to commit the considerable resources required to update a meta-analysis. Further investigation and evaluation of the methods is required before they can be recommended for general use.
+T2  - BMC medical research methodology
+VL  - 3
+SP  - 13
+PY  - 2003
+C1  - 38
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/12877755
+UR  - 
+KW  - Computer Simulation
+KW  - Data Interpretation, Statistical
+KW  - Humans
+KW  - Meta-Analysis as Topic
+KW  - Myocardial Infarction:drug therapy
+KW  - ROC Curve
+KW  - Sample Size
+KW  - Streptokinase:therapeutic use
+KW  - Streptokinase
+KW  - evaluation studies
+KW  - journal article
+KW  - research support, non-u.s. gov't
+ER  - 
+
+TY  - JOUR
+ID  - 10827891
+AN  - 10827891
+DB  - Pubmed
+LB  - 
+AU  - Lawrie, SM
+AU  - Adams, CE
+AU  - Thornley, B
+AU  - Joy, C
+TI  - Comprehensiveness of systematic review--update.
+AB  - 
+T2  - The British journal of psychiatry : the journal of mental science
+VL  - 176
+SP  - 396
+EP  - 7
+PY  - 2000
+C1  - 39
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/10827891
+UR  - 
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Review Literature as Topic
+KW  - Schizophrenia
+KW  - comment
+KW  - letter
+ER  - 
+
